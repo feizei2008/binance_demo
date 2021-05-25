@@ -3,3 +3,4 @@ numpy~=1.20.1
 datetime
 python-binance
 jsonpickle
+requests
